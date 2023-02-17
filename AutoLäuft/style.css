@@ -1,0 +1,30 @@
+#sence
+{
+    background-image: url(img/side.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 525px;
+}
+
+#div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+}
+
+.btn
+{
+    padding: 10px 35px;
+    margin: 10px;
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#auto
+{
+    background-image: url(img/road.jpg);
+}
